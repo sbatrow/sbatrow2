@@ -1,6 +1,7 @@
 # Hey , I am sithum batrow  🇱🇰 <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
-<img align="right" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Developer.gif" width='200'/>
+
+<img align="right" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Developer.gif" width='100'/>
 
 
 
