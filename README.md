@@ -56,7 +56,7 @@ You can use the website to generate badges: https://shields.io/
 
 
 <p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=rajput2107&&show_icons=true&theme=radical" alt="Pramod's Github Stats">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=sbatrow_icons=true&theme=radical" alt="Pramod's Github Stats">
 </p>  
 <p>
   <a href="https://github.com/sbatrow/handle-path-oz">
