@@ -46,7 +46,7 @@ You can use the website to generate badges: https://shields.io/
 	- C++
 	- Some Java
 
-<img align="right" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Developer.gif"/>
+<img align="right" src="https://github.com/sbatrow/rajput2107/blob/master/Assets/Developer.gif"/>
 
 - **Web Development**
 	- HTML, CSS and Javascript :white_check_mark:
@@ -123,5 +123,4 @@ You can use the website to generate badges: https://shields.io/
   <br/>
   Thanks for stopping by 😁<br/>
 </p>
-<p align="center"><img alt="Profile Hits" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2sbatrow%2F" /></p>
-
+<p align="center"><img alt="Profile Hits" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsbatrow%2F" /></p>
