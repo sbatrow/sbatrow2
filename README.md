@@ -1,5 +1,5 @@
 #Hey , I am sithum batrow  🇱🇰 <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
-<img src="https://github.com/sbatrow/rajput2107/blob/master/Assets/Earth.gif" width="24px"> 
+<img src="https://github.com/sbatrow/rajput2107/blob/master/Assets/Earth.gif" width="24px" 
 
 
 
