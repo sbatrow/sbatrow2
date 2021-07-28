@@ -49,6 +49,23 @@ You can use the website to generate badges: https://shields.io/
 <br/><br/>
 
 
+## Ask me about :computer: 
+- **Competitive Programming**
+	- Python ❤️
+	- C++
+	- Some Java
+
+<img align="right" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Developer.gif"/>
+
+- **Web Development**
+	- HTML, CSS and Javascript :white_check_mark:
+	- Bootstrap
+	- React with Redux :electron:
+	- MonogoDB
+  - Express
+  - NodeJS  
+- **Shell Scripting**
+
 
 # GITHUB STATUS.
 - ![Profile views](https://gpvc.arturio.dev/sbatrow)
