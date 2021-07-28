@@ -61,12 +61,8 @@ You can use the website to generate badges: https://shields.io/
 - ![Profile views](https://gpvc.arturio.dev/sbatrow)
 - [![GitHub followers](https://img.shields.io/github/followers/sbatrow.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/sbatrow?tab=followers)
 
-<p>
-  <a href="https://github.com/inukaasith/handle-path-oz">
-    <img width="55%" align="left" alt="Onimur's github stats" src="https://github-readme-stats.vercel.app/api?username=sbatrow&show_icons=true&hide_border=true" />
-  </a>
-</p>
-<p align ="right">
+
+<p align ="left">
   <br />
   <code><img width="10%"  src="https://www.vectorlogo.zone/logos/json/json-ar21.svg"></code>
   <code><img width="10%"   src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
