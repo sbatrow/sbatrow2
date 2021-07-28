@@ -1,10 +1,9 @@
-#Hey , I am sithum batrow  🇱🇰 <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
+### <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Hi.gif" width="29px"> Hey , I am sithum batrow  🇱🇰 &nbsp;<img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Earth.gif" width="24px">
 
-
-|  <a href="https://t.me/sibatrow/"><img src="https://camo.githubusercontent.com/7519fbc75a10c6391180b9fbfdbca2038786da52271409966d3b036b92640e85/68747470733a2f2f75702e736f6669616e6568616d6c616f75692e66722f6c6f636b646f6f722f6c6f636b646f6f725f736d616c6c2e706e67" width="300px" height="300px" /></a> |
+|<a href="https://t.me/sibatrow/"><img src="https://camo.githubusercontent.com/7519fbc75a10c6391180b9fbfdbca2038786da52271409966d3b036b92640e85/68747470733a2f2f75702e736f6669616e6568616d6c616f75692e66722f6c6f636b646f6f722f6c6f636b646f6f725f736d616c6c2e706e67" width="300px" height="300px" /></a> |
 |:---------------------------------------------------------------------------------------------------------------------------------------: |
 
-<em>I am a student in  <a href="https://en.wikipedia.org/wiki/Sri_Lanka"><b>Sri Lanka</b></a>. From very early on in my life, I started to fall in love with technology 😍 This love has helped me develop a very good technological mindset <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/PC.gif" height="20px"/>, and given me the curiosity to learn more. I firmly believe that **no amount of knowledge <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Rocket.gif" height="18px"> is enough knowledge**. 🧠</em><img src="https://github.com/sbatrow/rajput2107/blob/master/Assets/Earth.gif" width="24px"> 
+<em>I am a student in  <a href="https://en.wikipedia.org/wiki/Sri_Lanka"><b>Sri Lanka</b></a>. From very early on in my life, I started to fall in love with technology 😍 This love has helped me develop a very good technological mindset <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/PC.gif" height="20px"/>, and given me the curiosity to learn more. I firmly believe that **no amount of knowledge <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Rocket.gif" height="18px"> is enough knowledge**. 🧠</em>
 
 |       **[sithum batrow](https://t.me/sibatrow/)**                                                                                |
 | <a href="https://github.com/sbatrow"><img src="https://icon-library.com/images/icon-programmer/icon-programmer-14.jpg" width="32px" height="32px"></a> <a href="https://www.facebook.com/sithum batrow"><img src="https://i.ibb.co/zmYNW4p/facebook.png" width="32px" height="32px"></a> <a href="https://www.instagram.com/sithum batrow/"><img src="https://i.ibb.co/Kx2GSrT/instagram.png" width="32px" height="32px"></a> |
@@ -100,7 +99,7 @@ You can use the website to generate badges: https://shields.io/
 
 
 <p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=rajput2107&&show_icons=true&theme=radical" alt="Pramod's Github Stats">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=sbatrow&&show_icons=true&theme=radical" alt="Pramod's Github Stats">
 </p>  
 
 <div align="center">
