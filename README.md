@@ -3,6 +3,7 @@
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="400"/>
 
  <a href="https://t.me/sibatrow/"><img src="https://media.istockphoto.com/vectors/programming-code-application-window-vector-id1124838925?k=20&m=1124838925&s=170667a&w=0&h=qiorTps2pQd6vm29ApL50h9W6fiQgHle9_2fbb9OXw4=" width="150px" height="150px" /></a> |
+|:---------------------------------------------------------------------------------------------------------------------------------------: |
 |       **[sithum batrow](https://t.me/sibatrow/)**                                                                                |
 | <a href="https://github.com/sbatrow"><img src="https://icon-library.com/images/icon-programmer/icon-programmer-14.jpg" width="32px" height="32px"></a> <a href="https://www.facebook.com/sithum batrow"><img src="https://i.ibb.co/zmYNW4p/facebook.png" width="32px" height="32px"></a> <a href="https://www.instagram.com/sithum batrow/"><img src="https://i.ibb.co/Kx2GSrT/instagram.png" width="32px" height="32px"></a> |
 
