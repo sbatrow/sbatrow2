@@ -27,7 +27,7 @@ You can use the website to generate badges: https://shields.io/
 
 <img width="42%" align="right" alt="Github" src="https://telegra.ph/file/032e346e61e5e2ac25798.png" />
 
-- 👨🏽‍💻 I’m currently working on [Liontroid](https://github.com/DARKSSH-MANAGER);
+- 👨🏽‍💻 I’m currently working on [DARK MANAGER](https://github.com/DARKSSH-MANAGER);
 - 🌱 I’m currently learning Python And Linux(CircleCI); 
 - 🤔 I’m looking for help with Design Pattern 😭;
 - 💬 Ask me about anything, I am happy to help;
