@@ -2,7 +2,7 @@
 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
 
-|<a href="https://t.me/sibatrow/"><img src="https://camo.githubusercontent.com/7519fbc75a10c6391180b9fbfdbca2038786da52271409966d3b036b92640e85/68747470733a2f2f75702e736f6669616e6568616d6c616f75692e66722f6c6f636b646f6f722f6c6f636b646f6f725f736d616c6c2e706e67" width="300px" height="300px" /></a> |
+|<a href="https://t.me/sibatrow/"><img src="https://media.istockphoto.com/vectors/programming-code-application-window-vector-id1124838925?k=20&m=1124838925&s=170667a&w=0&h=qiorTps2pQd6vm29ApL50h9W6fiQgHle9_2fbb9OXw4=" width="300px" height="300px" /></a> |
 |:---------------------------------------------------------------------------------------------------------------------------------------: |
 
 <em>I am a student in  <a href="https://en.wikipedia.org/wiki/Sri_Lanka"><b>Sri Lanka</b></a>. From very early on in my life, I started to fall in love with technology 😍 This love has helped me develop a very good technological mindset <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/PC.gif" height="20px"/>, and given me the curiosity to learn more. I firmly believe that **no amount of knowledge <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Rocket.gif" height="18px"> is enough knowledge**. 🧠</em>
