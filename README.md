@@ -47,7 +47,7 @@ You can use the website to generate badges: https://shields.io/
 	- C++
 	- Some Java
 
-<img align="right" src="https://github.com/sbatrow/rajput2107/blob/master/Assets/Developer.gif"/>
+<img align="right" src="https://telegra.ph/file/12dd34089986661cf6418.jpg"/>
 
 - **Web Development**
 	- HTML, CSS and Javascript :white_check_mark:
